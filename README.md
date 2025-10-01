@@ -10,7 +10,7 @@ GitHub Tutorial:
 5. Click "Create Repository" and the end product should show up
 
 2. Clone the Repository
-You're able to download the repository from the GitHub service to your conmputer.
+You're able to download the repository from the GitHub service to your computer.
 Command:
 git clone https://github.com/Username/repo-name.git
 cd repo name
