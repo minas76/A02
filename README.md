@@ -32,3 +32,28 @@ https://www.jetbrains.com/webstorm/download/
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 https://gitforwindows.org/
 In-class Presentations
+
+Glossary:
+Branch – Lets you develop code in different sections of the main repository.
+
+Clone – A complete copy of your repository
+
+Commit – A change you confirmed that will be shown in the history
+
+Fetch – Obtaining a committed change without merging them into your branch
+
+Git – A distributed version control system that tracks changes in files and coordinates work among developers
+
+GitHub – A cloud-based service with various repositories to connect with other users
+
+Merge – Combines changes from different branches
+
+Merge Conflict – A conflict where git cannot merge certain branches because of a problematic commit
+
+Push – Uploads commits from your system to the repository
+
+Pull – Takes the changes from the remote system to your local machine
+
+Remote – A reference to a repository that is not on your current local machine
+
+Repository – The project’s directory and history tracked by Git, containing commits, branches, and configuration.
