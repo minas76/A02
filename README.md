@@ -25,3 +25,10 @@ WebStorm Tutorial:
 Git Tutorial:
 1. Run the command sudo apt install git and sudo apt install gitk
 2. Use git add, commit, push, pull and checkout commands to intereact with github through your terminal system
+
+References:
+https://git-scm.com/downloads 
+https://www.jetbrains.com/webstorm/download/
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+https://gitforwindows.org/
+In-class Presentations
